@@ -30,7 +30,7 @@
 
 <div align="center">
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight&hide_border=true)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Nikilodius&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 
