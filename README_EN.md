@@ -30,11 +30,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_NICK&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikilodius&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
-
-> ⚠️ Replace `Nikilodius` with your GitHub username so the stats work 😉
 
 ## 📫 Contact Me
 
